@@ -1,0 +1,5 @@
+To Wget using RPM:
+wget -O splunk-8.0.2-a7f645ddaf91-linux-2.6-x86_64.rpm 'https://www.splunk.com/bin/splunk/DownloadActivityServlet?architecture=x86_64&platform=linux&version=8.0.2&product=splunk&filename=splunk-8.0.2-a7f645ddaf91-linux-2.6-x86_64.rpm&wget=true'
+
+To Wget using TAR:
+wget -O splunk-8.0.2-a7f645ddaf91-Linux-x86_64.tgz 'https://www.splunk.com/bin/splunk/DownloadActivityServlet?architecture=x86_64&platform=linux&version=8.0.2&product=splunk&filename=splunk-8.0.2-a7f645ddaf91-Linux-x86_64.tgz&wget=true'
