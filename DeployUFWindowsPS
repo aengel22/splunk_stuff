@@ -1,0 +1,7 @@
+msi exec.exe /i{path}\splunkforwarder-7.2.9.1-605df3f0dfddx64-release.msi
+agreetolicense=yes
+splunkusername={splunkuser}
+splunkpassword={password}
+ 
+ optional:
+ deployment_server="{ip:port} /quiet
